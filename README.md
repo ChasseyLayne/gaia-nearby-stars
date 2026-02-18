@@ -32,6 +32,8 @@ Data were retrieved from Gaia DR3 using ADQL via astroquery. Selection criteria:
 
 ![CMD](images/cmd.png)
 
+![CMD](images/cmd_velocity.png)
+
 ### Tools Used
 
 * Python
